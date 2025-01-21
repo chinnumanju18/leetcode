@@ -1,4 +1,3 @@
-
 class Solution:
     def kidsWithCandies(self, candies, extraCandies):
         max_candies = max(candies)
